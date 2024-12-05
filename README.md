@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://www.onlyweb.in/web-developer/wp-content/uploads/2024/10/OnlyWeb-Logo-Web.png" width="200"/>
+  <img src="https://www.onlyweb.in/web-developer/wp-content/uploads/2024/10/OnlyWeb-Logo-Web.png" width="400"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/onlyweb/">
