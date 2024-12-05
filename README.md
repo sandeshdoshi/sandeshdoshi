@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeshdoshi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **sandeshdoshi/sandeshdoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
